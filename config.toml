@@ -1,0 +1,4 @@
+baseURL = "samedhg.github.io"
+languageCode = "en-us"
+title = "Gween Tea"
+theme = "m10c"

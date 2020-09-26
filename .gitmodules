@@ -5,3 +5,6 @@
 	path = public
 	url = https://github.com/SamedhG/SamedhG.github.io.git
 	branch = master
+[submodule "themes/minimal"]
+	path = themes/minimal
+	url = https://github.com/calintat/minimal.git

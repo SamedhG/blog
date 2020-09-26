@@ -1,4 +1,57 @@
-baseURL = "samedhg.github.io"
+baseURL = "http://samedhg.github.io/"
 languageCode = "en-us"
-title = "Gween Tea"
-theme = "m10c"
+title = "Sam Gupta"
+theme = "minimal"
+# disqusShortname = "username" # delete this to disable disqus comments
+# googleAnalytics = ""
+
+[params]
+    author = "Samedh Gupta"
+    description = "Welcome to my personal blog and portfolio!"
+    githubUsername = "#"
+    accent = "#b7410e"
+    showBorder = true
+    backgroundColor = "#cdd3d5"
+    font = "Raleway" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "default"
+    highlightLanguages = ["rust"]
+
+[[menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+
+[[menu.main]]
+    url = "/about/"
+    name = "About"
+    weight = 2
+
+[[menu.main]]
+    url = "/post/"
+    name = "Posts"
+    weight = 3
+
+[[menu.main]]
+    url = "/project/"
+    name = "Projects"
+    weight = 4
+
+# Social icons to be shown on the right-hand side of the navigation bar.
+# The "name" field should match the name of the icon in Font Awesome.
+# The list of available icons can be found at http://fontawesome.io/icons.
+
+[[menu.icon]]
+    url = "mailto:gsamedh@gmail.com"
+    name = "envelope-o"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://github.com/SamedhG/"
+    name = "github"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://www.linkedin.com/in/g-sam/"
+    name = "linkedin"
+    weight = 4

@@ -1,4 +1,4 @@
-baseURL = "http://samedhg.github.io/"
+baseURL = "https://samedhg.github.io/"
 languageCode = "en-us"
 title = "Sam Gupta"
 theme = "minimal"

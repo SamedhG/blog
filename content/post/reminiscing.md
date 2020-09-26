@@ -2,7 +2,7 @@
 title: "Reminiscing about my first project"
 date: 2020-09-25
 tags: ["Roots", "Php", "SQL", "Web development"]
-draft: true
+draft: false
 ---
 *Disclaimer: A lot of things I did as a kid were dumb. This article is me just
 musing at the decisions I made as a 14 year old.*

@@ -1,4 +1,4 @@
-baseURL = "https://samedhg.github.io/"
+baseURL = "https://samedh.me/"
 languageCode = "en-us"
 title = "Sam Gupta"
 theme = "minimal"
@@ -13,9 +13,9 @@ theme = "minimal"
     showBorder = true
     backgroundColor = "#cdd3d5"
     font = "Raleway" # should match the name on Google Fonts!
-    highlight = true
-    highlightStyle = "default"
-    highlightLanguages = ["rust"]
+    #highlight = true
+    #highlightStyle = "default"
+    #highlightLanguages = ["rust", "php"]
 
 [[menu.main]]
     url = "/"

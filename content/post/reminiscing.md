@@ -42,7 +42,7 @@ learned could be used in a meaningful way. Not only that I had spent a summer
 break building something rather than playing video games all day.
 
 ### Security?
-To be honest I asked my school, which was using a completely
+I asked my school, which was using a completely
 manual process at the time, to use my system and they decided 
 against using my project. I couldn't understand it at the time, 
 and boy am I glad they chose to not use it. Looking back, the 
@@ -53,6 +53,13 @@ translated to a SQL string (with string concatenation) and was called on the
 database. There was no cleansing of user input and there was certainly
 clever use of an ORM that could have potentially saved me from the
 problem.
+
+
+### Conclusion
+This project gave me my first taste of real programming of managing a project
+with multiple files more than nested for loops to make pretty patterns with
+asterisks (yeah that was a thing, or was it just me?). I really enjoyed it and 
+that was probably when I knew I wanted to do this in the future.
 
 ### Source
 I did put my code up on github for posterity. Warning: not for the faint of

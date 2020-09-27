@@ -6,7 +6,7 @@ draft: false
 
 ## About Me
 My name is *Samedh Gupta*, though I usually go by Sam. I'm a software developer
-currently living in Boston, Massachusets.  
+and budding entrepreneur currently living in Boston, Massachusets.  
 
 I started programming when I was 12, and I have been learning new things
 everyday since. I have been fortunate enough to have the opportunity to explore
@@ -21,7 +21,7 @@ new things out.
 I find myself specializing in back-end web development and systems programming.
 When I first learned about concurrent programming I was blown away. For me, 
 this opened a new world of possibilities and made it possible to do many
-things I had previosly struggled to accomplish. 
+things I had previously struggled to accomplish. 
 
 Feel free to reach out to me!
 
